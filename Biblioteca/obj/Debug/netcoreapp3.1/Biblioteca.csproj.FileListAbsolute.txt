@@ -1,0 +1,60 @@
+C:\Users\Fernando\source\repos\Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.exe
+C:\Users\Fernando\source\repos\Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
+C:\Users\Fernando\source\repos\Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
+C:\Users\Fernando\source\repos\Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.dev.json
+C:\Users\Fernando\source\repos\Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\Fernando\source\repos\Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\Fernando\source\repos\Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Fernando\source\repos\Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Fernando\source\repos\Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Fernando\source\repos\Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Fernando\source\repos\Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Fernando\source\repos\Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Fernando\source\repos\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Fernando\source\repos\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.GenerateResource.cache
+C:\Users\Fernando\source\repos\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CopyComplete
+C:\Users\Fernando\source\repos\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\Fernando\source\repos\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\Fernando\source\repos\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\Fernando\source\repos\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Principal.resources
+C:\Users\Fernando\source\repos\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Libro.resources
+C:\Users\Fernando\source\repos\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Admin.resources
+C:\Users\Fernando\source\repos\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Usuario.resources
+C:\Users\Fernando\source\repos\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.BPrinicipal.resources
+C:\Users\Fernando\source\repos\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Properties.Resources.resources
+C:\Users\Fernando\source\repos\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Prestamo.resources
+C:\Users\Fernando\source\repos\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Form2.resources
+C:\Users\Fernando\source\repos\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Buscador.resources
+X:\Sexto Semestre\ADMINISTRACION DE BASE DE DATOS\Unidad VI\Unidad VI__Fernando Juarez Vicente__Proyecto Integrador\Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.exe
+X:\Sexto Semestre\ADMINISTRACION DE BASE DE DATOS\Unidad VI\Unidad VI__Fernando Juarez Vicente__Proyecto Integrador\Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
+X:\Sexto Semestre\ADMINISTRACION DE BASE DE DATOS\Unidad VI\Unidad VI__Fernando Juarez Vicente__Proyecto Integrador\Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
+X:\Sexto Semestre\ADMINISTRACION DE BASE DE DATOS\Unidad VI\Unidad VI__Fernando Juarez Vicente__Proyecto Integrador\Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.dev.json
+X:\Sexto Semestre\ADMINISTRACION DE BASE DE DATOS\Unidad VI\Unidad VI__Fernando Juarez Vicente__Proyecto Integrador\Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.dll
+X:\Sexto Semestre\ADMINISTRACION DE BASE DE DATOS\Unidad VI\Unidad VI__Fernando Juarez Vicente__Proyecto Integrador\Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.pdb
+X:\Sexto Semestre\ADMINISTRACION DE BASE DE DATOS\Unidad VI\Unidad VI__Fernando Juarez Vicente__Proyecto Integrador\Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+X:\Sexto Semestre\ADMINISTRACION DE BASE DE DATOS\Unidad VI\Unidad VI__Fernando Juarez Vicente__Proyecto Integrador\Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+X:\Sexto Semestre\ADMINISTRACION DE BASE DE DATOS\Unidad VI\Unidad VI__Fernando Juarez Vicente__Proyecto Integrador\Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+X:\Sexto Semestre\ADMINISTRACION DE BASE DE DATOS\Unidad VI\Unidad VI__Fernando Juarez Vicente__Proyecto Integrador\Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+X:\Sexto Semestre\ADMINISTRACION DE BASE DE DATOS\Unidad VI\Unidad VI__Fernando Juarez Vicente__Proyecto Integrador\Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+X:\Sexto Semestre\ADMINISTRACION DE BASE DE DATOS\Unidad VI\Unidad VI__Fernando Juarez Vicente__Proyecto Integrador\Biblioteca\Biblioteca\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+X:\Sexto Semestre\ADMINISTRACION DE BASE DE DATOS\Unidad VI\Unidad VI__Fernando Juarez Vicente__Proyecto Integrador\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.AssemblyReference.cache
+X:\Sexto Semestre\ADMINISTRACION DE BASE DE DATOS\Unidad VI\Unidad VI__Fernando Juarez Vicente__Proyecto Integrador\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Admin.resources
+X:\Sexto Semestre\ADMINISTRACION DE BASE DE DATOS\Unidad VI\Unidad VI__Fernando Juarez Vicente__Proyecto Integrador\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.BPrinicipal.resources
+X:\Sexto Semestre\ADMINISTRACION DE BASE DE DATOS\Unidad VI\Unidad VI__Fernando Juarez Vicente__Proyecto Integrador\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Buscador.resources
+X:\Sexto Semestre\ADMINISTRACION DE BASE DE DATOS\Unidad VI\Unidad VI__Fernando Juarez Vicente__Proyecto Integrador\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Form2.resources
+X:\Sexto Semestre\ADMINISTRACION DE BASE DE DATOS\Unidad VI\Unidad VI__Fernando Juarez Vicente__Proyecto Integrador\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Libro.resources
+X:\Sexto Semestre\ADMINISTRACION DE BASE DE DATOS\Unidad VI\Unidad VI__Fernando Juarez Vicente__Proyecto Integrador\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Prestamo.resources
+X:\Sexto Semestre\ADMINISTRACION DE BASE DE DATOS\Unidad VI\Unidad VI__Fernando Juarez Vicente__Proyecto Integrador\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Principal.resources
+X:\Sexto Semestre\ADMINISTRACION DE BASE DE DATOS\Unidad VI\Unidad VI__Fernando Juarez Vicente__Proyecto Integrador\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Properties.Resources.resources
+X:\Sexto Semestre\ADMINISTRACION DE BASE DE DATOS\Unidad VI\Unidad VI__Fernando Juarez Vicente__Proyecto Integrador\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Usuario.resources
+X:\Sexto Semestre\ADMINISTRACION DE BASE DE DATOS\Unidad VI\Unidad VI__Fernando Juarez Vicente__Proyecto Integrador\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.GenerateResource.cache
+X:\Sexto Semestre\ADMINISTRACION DE BASE DE DATOS\Unidad VI\Unidad VI__Fernando Juarez Vicente__Proyecto Integrador\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+X:\Sexto Semestre\ADMINISTRACION DE BASE DE DATOS\Unidad VI\Unidad VI__Fernando Juarez Vicente__Proyecto Integrador\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
+X:\Sexto Semestre\ADMINISTRACION DE BASE DE DATOS\Unidad VI\Unidad VI__Fernando Juarez Vicente__Proyecto Integrador\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
+X:\Sexto Semestre\ADMINISTRACION DE BASE DE DATOS\Unidad VI\Unidad VI__Fernando Juarez Vicente__Proyecto Integrador\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
+X:\Sexto Semestre\ADMINISTRACION DE BASE DE DATOS\Unidad VI\Unidad VI__Fernando Juarez Vicente__Proyecto Integrador\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
+X:\Sexto Semestre\ADMINISTRACION DE BASE DE DATOS\Unidad VI\Unidad VI__Fernando Juarez Vicente__Proyecto Integrador\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+X:\Sexto Semestre\ADMINISTRACION DE BASE DE DATOS\Unidad VI\Unidad VI__Fernando Juarez Vicente__Proyecto Integrador\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
